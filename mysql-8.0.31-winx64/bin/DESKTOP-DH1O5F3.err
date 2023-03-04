@@ -1,0 +1,12 @@
+2022-11-16T17:21:32.828203Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-11-16T17:21:32.841961Z 0 [ERROR] [MY-010095] [Server] Failed to access directory for --secure-file-priv. Please make sure that directory exists and is accessible by MySQL Server. Supplied value : C:/tracking_system/files/database/mysql-8.0.31-winx64/data/Uploads
+2022-11-16T17:21:32.857006Z 0 [ERROR] [MY-010119] [Server] Aborting
+2022-11-16T17:21:35.455129Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-11-16T17:21:35.456006Z 0 [ERROR] [MY-010095] [Server] Failed to access directory for --secure-file-priv. Please make sure that directory exists and is accessible by MySQL Server. Supplied value : C:/tracking_system/files/database/mysql-8.0.31-winx64/data/Uploads
+2022-11-16T17:21:35.462828Z 0 [ERROR] [MY-010119] [Server] Aborting
+2022-11-16T17:21:40.158067Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-11-16T17:21:40.158917Z 0 [ERROR] [MY-010095] [Server] Failed to access directory for --secure-file-priv. Please make sure that directory exists and is accessible by MySQL Server. Supplied value : C:/tracking_system/files/database/mysql-8.0.31-winx64/data/Uploads
+2022-11-16T17:21:40.164538Z 0 [ERROR] [MY-010119] [Server] Aborting
+2022-11-16T17:21:48.716305Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-11-16T17:21:48.717570Z 0 [ERROR] [MY-010095] [Server] Failed to access directory for --secure-file-priv. Please make sure that directory exists and is accessible by MySQL Server. Supplied value : C:/tracking_system/files/database/mysql-8.0.31-winx64/data/Uploads
+2022-11-16T17:21:48.723401Z 0 [ERROR] [MY-010119] [Server] Aborting
